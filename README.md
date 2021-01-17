@@ -1,3 +1,3 @@
-# Tutorial
+# Nothing to see here.
 
-This is my tutorial repository.
+Move along.
